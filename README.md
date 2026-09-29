@@ -24,3 +24,5 @@ TestFlight 公開連結開放後，再更新 `#release-status` 及測試按鈕�
 - 全部圖片載入成功，FAQ 可展開，HTML 本機資產／連結檢查通過。
 - 無 JavaScript、追蹤 SDK 或外部字型依賴。
 - TestFlight 連結待實際上傳／Apple 處理完成後才加入。
+
+2026-09-30：同步 v0.1 核定 Logo 與最新 Simulator 首頁截圖（`TestFlightFinal.xcresult`）；建置 0.1.0 (1) 已成功上傳，公開測試連結仍待開放。
