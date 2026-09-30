@@ -26,3 +26,5 @@ TestFlight 公開連結開放後，再更新 `#release-status` 及測試按鈕�
 - TestFlight 連結待實際上傳／Apple 處理完成後才加入。
 
 2026-09-30：同步 v0.1 核定 Logo 與最新 Simulator 首頁截圖（`TestFlightFinal.xcresult`）；建置 0.1.0 (1) 已完成 Apple 處理並開放內部測試，公開測試連結仍待開放。
+
+2026-09-30 v0.2：更新結果總覽截圖（明確標示模擬資料）、相機人工檢查能力與限制、相機權限及隱私說明。自動 MAC、全部 SSID 掃描與音訊偵測未實作。
